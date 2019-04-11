@@ -1,0 +1,17 @@
+.header {
+  width: 100%;
+  font-size: 2rem;
+  color: rgb(0, 0, 0);
+  margin-bottom: 10px;
+}
+
+.title {
+  font-family: 'Candal', sans-serif;
+  font-size: 40px;
+  float: left;
+}
+
+.scores {
+  font-family: 'VT323', monospace;
+  float: right;
+}
