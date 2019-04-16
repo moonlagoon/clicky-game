@@ -23,7 +23,7 @@ class App extends Component {
       card.count = 0;
     });
 
-    alert(`Game Over :( \nscore: ${this.state.score}`);
+    alert(`You've already guessed that. Game Over! \nscore: ${this.state.score}`);
     this.setState({score: 0});
     return true;
   }
@@ -44,7 +44,7 @@ class App extends Component {
       }
     });
   }
-  // Map over this.state.cards and render a cardCard component for each card object
+
   render() {
     return (
       <Wrapper>
