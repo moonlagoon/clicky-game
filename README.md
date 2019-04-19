@@ -1,7 +1,8 @@
 # clicky-game
+https://github.com/moonlagoon
 
 #About 
-This is the clicky game where you are provided 
+This is the clicky game where you are provided 12 cards with a different crystal picture on them. Your goal is to click and guess from memory all 12 crystals while each click will shuffle the cards to confuse you. If you click on a card you've already chose the game will end and your high score will appear at the top.
 
 #Built With This site was built using
 
