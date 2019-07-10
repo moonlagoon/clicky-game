@@ -7,6 +7,7 @@
   width: 280px;
   box-shadow: 0 3px 6px rgb(49, 40, 71), 0 3px 6px rgb(158, 144, 196);
   text-align: left;
+  margin-top: 50px;
 }
 
 .card > .img-container {
@@ -16,7 +17,7 @@
   background:rgb(188, 163, 224);
 }
 .card > .img-container > img {
-  width: 60%
+  width: 60%;
 }
 
 .card > .content {

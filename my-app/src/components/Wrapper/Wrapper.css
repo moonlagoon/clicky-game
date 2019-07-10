@@ -18,3 +18,11 @@ html, body, #root {
   margin-right: 100px;
   height: 100%;
 }
+
+.title {
+  color: rgb(224, 223, 223);
+}
+
+.scores {
+  color: rgb(224, 223, 223);
+}
