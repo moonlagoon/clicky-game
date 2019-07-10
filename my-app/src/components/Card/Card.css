@@ -17,6 +17,7 @@
   background:rgb(188, 163, 224);
 }
 .card > .img-container > img {
+  padding: 10px;
   width: 60%;
 }
 
